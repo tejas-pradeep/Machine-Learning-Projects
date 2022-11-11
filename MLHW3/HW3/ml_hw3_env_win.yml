@@ -1,0 +1,13 @@
+name: ml_hw3
+channels:
+    - defaults
+dependencies:
+    - matplotlib
+    - numpy
+    - imageio
+    - scikit-learn
+    - notebook
+    - jupyterlab
+    - pip
+    - pip:
+        - tweet-preprocessor
